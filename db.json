@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "ProdutosPicking" : {
   "locations": [
     { "_id": 1, "title": "A-01" },

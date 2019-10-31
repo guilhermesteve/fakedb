@@ -11,4 +11,102 @@
   "profile": {
     "name": "typicode"
   }
+  "ProdutosPicking" : {
+  "locations": [
+    { "_id": 1, "title": "A-01" },
+    { "_id": 2, "title": "B-02" },
+    { "_id": 3, "title": "C-03" },
+    { "_id": 4, "title": "D-04" }
+  ],
+  "products": [
+    {
+      "_id": "1",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "123123",
+      "title": "Produto Teste 1",
+      "indconferido": false,
+      "local": "A-01"
+    },
+    {
+      "_id': "5",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "789456",
+      "title": "Produto 5",
+      "indconferido": false,
+      "local": "A-01"
+    },
+    {
+      "_id": "2",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "123456",
+      "title": "Produto Teste 2",
+      "indconferido": false,
+      "local": "B-02"
+    },
+    {
+      "_id": "6",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "456123",
+      "title": "Produto 6",
+      "indconferido": false,
+      "local": "B-02"
+    },
+    {
+      "_id": "3",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "147258",
+      "title": "Produto Teste 3",
+      "indconferido": false,
+      "local": "C-03"
+    },
+    {
+      "_id": "7",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "456789",
+      "title": "Produto 7",
+      "indconferido": false,
+      "local": "C-03"
+    },
+    {
+      "_id": "4",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "369258",
+      "title": "Produto Teste 4",
+      "indconferido": false,
+      "local": "D-04"
+    },
+    {
+      "_id": "8",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "741963",
+      "title": "Produto 8",
+      "indconferido": false,
+      "local": "D-04"
+    }
+  ]
+},
 }

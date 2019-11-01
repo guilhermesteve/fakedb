@@ -1,4 +1,4 @@
-{ "_id": 1,
+{ 
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -12,6 +12,7 @@
     "name": "typicode"
   },
   "ProdutosPicking" : {
+  "_id": 1,
   "locations": [
     { "_id": 1, "title": "A-01" },
     { "_id": 2, "title": "B-02" },

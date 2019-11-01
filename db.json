@@ -27,8 +27,18 @@
     }
 		]
    },
-   "picking" : [{"id" : "1", "indPicking": 1, "title": "Picking 35708", "description" : "Produtos para conferencia da LDM"},
-   {"id" : "2", "indPicking": 1, "title": "Picking 59068", "description" : "Nota para Editora Blooks Brasil"}],
+   "picking" : [
+     {"id" : "1",
+	 "indPicking": 1,
+	 "title": "Picking 35708", 
+	 "description" : "Produtos para conferencia da LDM"
+	 },
+   {"id" : "2", 
+   "indPicking": 1, 
+   "title": "Picking 59068", 
+   "description" : "Nota para Editora Blooks Brasil"
+   }
+   ],
   "ProdutosPicking" : [ {
   "id": 1,
   "locations": [

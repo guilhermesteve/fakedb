@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "ProdutosPicking" : {
+  "ProdutosPicking" : [ {
   "id": 1,
   "locations": [
     { "_id": 1, "title": "A-01" },
@@ -109,5 +109,5 @@
       "local": "D-04"
     }
   ]
-  }
+  }]
 }

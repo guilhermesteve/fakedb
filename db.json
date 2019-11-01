@@ -36,7 +36,26 @@
    "description" : "Nota para Editora Blooks Brasil"
    }
    ],
-  "ProdutosPicking" : [ {
+  "ProdutosPicking" : [{
+     "id": 2,
+	 "locations": [
+		{ "_id": 1, "title": "LD_01" },
+		{ "_id": 2, "title": "LD_02" },
+		{ "_id": 3, "title": "LD_03" },
+		{ "_id": 4, "title": "LD_04" }
+	  ],
+	  "products": [ {
+      "_id": "1",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 10,
+      "codbarras": "123123",
+      "title": "Produto Teste 1",
+      "indconferido": false,
+      "local": "LD_01"
+    }]
+    },{
   "id": 1,
   "locations": [
     { "_id": 1, "title": "A-01" },

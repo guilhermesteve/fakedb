@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "ProdutosPicking" : {
-  "_id": 1,
+  "id": 1,
   "locations": [
     { "_id": 1, "title": "A-01" },
     { "_id": 2, "title": "B-02" },

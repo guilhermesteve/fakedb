@@ -11,6 +11,22 @@
   "profile": {
     "name": "typicode"
   },
+   "caixa" : {
+		"_id": "1",
+		"_idCaixa": "12345",
+		"products": [{
+      "_id": "1",
+      "isbn": "12323",
+      "edicao": "1",
+      "conferido": 0,
+      "total": 4,
+      "codbarras": "123123",
+      "title": "Produto Teste 1",
+      "indconferido": false,
+      "local": "A-01"
+    }
+		]
+   },
   "ProdutosPicking" : [ {
   "id": 1,
   "locations": [

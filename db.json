@@ -31,7 +31,7 @@
 	 "description" : "Produtos para conferencia da LDM"
 	 },
    {"id" : "2", 
-   "indPicking": 1, 
+   "indPicking": 2, 
    "title": "Picking 59068", 
    "description" : "Nota para Editora Blooks Brasil"
    }
@@ -48,7 +48,7 @@
       "_id": "1",
       "isbn": "12323",
       "edicao": "1",
-      "conferido": 0,
+      "conferido": 2,
       "total": 10,
       "codbarras": "123123",
       "title": "Produto Teste 1",
